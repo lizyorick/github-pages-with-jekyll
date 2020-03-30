@@ -1,7 +1,7 @@
-  ---
-  title: "AUTO VS MANUAL"
-  date: 2020-03-30
-  ---
+---
+title: "Auto VS Manual"
+date: 2020-03-30
+---
   
   
   
@@ -9,10 +9,7 @@
  
   **Smarthphones** may or may not allow you to switch modes.  There are apps you can download that will allow **"Manual"** mode but what apps you can download depend on what phone you are using.
   
-  
-  #The biggest factors are **First: *Light***, and **Second: *Speed***.  
-  
-  ##All the rules of Photography still apply! 
+  The biggest factors are **First: *Light***, and **Second: *Speed***.  **All the rules of Photography still apply!** 
   
   In fact, if you know how to take photographs of moving subjects, like cars, sports, etc, then you're already halfway there.  It's just a matter of adjusting your Shutter Speed up or down.  Ususally up!!  While you can take photos of people running, or birds flying at around 1/1000 or 1/1200, you are going to have to speed up to take photos of a bird sitting still on a telephone pole when you are driving by at 80mph.  I start around 1/2500 and go up or down - depending on quality of light and my other settings.
   
