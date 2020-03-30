@@ -1,7 +1,6 @@
   ---
   title: "AUTO VS MANUAL"
   date: 2020-03-30
-  tags:  Photography
   ---
   
   
