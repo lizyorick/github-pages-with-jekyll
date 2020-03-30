@@ -1,13 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: Photographing Through The Windshield
+author: Elizabeth Yorick
+email: lizyorick@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Tips for taking GREAT Photographs from a moving vehicle and have them actually turn out!!
+  Yes, you can take great photos from a moving vehicle and expect them to turn out.  You can use any camera that you can take off Auto.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: EYorick # DO NOT include the @ character, or else the build will fail!
+github_username:  lizyorick # DO NOT include the @ character, or else the build will fail!
+instagram_username: lizyorick
 
 show_excerpts: true # set to false to remove excerpts on the homepage
